@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	iq "github.com/rekki/go-query"
-	"github.com/rekki/go-query/util/index"
+	index "github.com/rekki/go-query-index"
 )
 
 type ExampleCity struct {
